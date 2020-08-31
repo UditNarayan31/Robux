@@ -1,0 +1,33 @@
+.d-block{
+    height:500px;
+}
+.card{
+    border: none;
+}
+.fontFam{
+    font-family: Sans-serif;
+}
+.smallBtn{
+    background-color: green;
+    width: 70px;
+    color: white;
+}
+.bg-dark{
+    color: whitesmoke;
+}
+.card1{
+    background-color: azure;
+    height: 450px;
+}
+span{
+    color: green;
+}
+.mainBtn{
+width:300px;
+background-color: orangered;
+color: white;
+}
+.banner{
+    background-color: rgba(255, 68, 0, 0.822);
+}
+
